@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Third Apps
     # Local Apps
+    'gesture'
 ]
 
 MIDDLEWARE = [
